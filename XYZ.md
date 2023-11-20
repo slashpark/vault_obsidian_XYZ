@@ -1,0 +1,1 @@
+Protagonista della nostra storia
