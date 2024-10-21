@@ -1,1 +1,1 @@
-L'ultimo blocco rimasto nonché casa di [[XYZ]]
+L'ultimo blocco rimasto nonché casa di [[XYZ]].
