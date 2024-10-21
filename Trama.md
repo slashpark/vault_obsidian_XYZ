@@ -3,7 +3,7 @@ L'obiettivo di XYZ è quello di affrontare le [[Entità malvagie|EE (Evil Entiti
 Possiamo dividere la trama in 4:
 
 ### [[Prologo]]
-La porzione di storia che parte dalla casa di XYZ fino ad arrivare alla scoperta dell'[[entità universo]]. Durante questo percorso XYZ affronterà i primi nemici ai quali è stato fatto il lavaggio del cervello e il boss. Dopo aver battuto il boss XYZ troverà il portale per entrare in contatto con l'[[entità universo]].
+La porzione di storia che parte dalla casa di XYZ fino ad arrivare alla scoperta dell'[[Entità universo]]. Durante questo percorso XYZ affronterà i primi nemici ai quali è stato fatto il lavaggio del cervello e il boss. Dopo aver battuto il boss XYZ troverà il portale per entrare in contatto con l'[[Entità universo]].
 
 
 ### [[Atto 1 - Il messaggio]]

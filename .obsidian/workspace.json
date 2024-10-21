@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "83e2f50668f68d4a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e839e5a557da85e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a63e125e74206d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "XYZ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "XYZ"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "63cdc93841b77590",
+    "type": "split",
+    "children": [
+      {
+        "id": "6aab205332692284",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7315d566bb123f38",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f05650b7f446675f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e521b1bc6d9c70b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "83f907491d1cb264",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3f8158b75ec6b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "816ef59ccffb36b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "remote/Prologo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prologo"
+            }
+          },
+          {
+            "id": "e0f74b6c0d66ae11",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "remote/Prologo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Prologo"
+            }
+          },
+          {
+            "id": "3a4f8db961a87fa0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "45c54c8b0aa823a0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remote/Prologo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Prologo"
+            }
+          },
+          {
+            "id": "fcc06c283810a9db",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a63e125e74206d94",
+  "lastOpenFiles": [
+    "Trama.md",
+    "Prologo.md",
+    "Il capocantiere.md",
+    "Entità universo.md",
+    "Entità malvagie.md",
+    "Blocco Q33R.md",
+    "remote/Prologo.md",
+    "XYZ.md",
+    "images/Idle_-_Animation-1.png",
+    "images",
+    "remote/Trama.md",
+    "remote/XYZ.md",
+    "Untitled.canvas",
+    "remote/Blocco Q33R.md",
+    "remote/Entità malvagie.md",
+    "remote/Entità universo.md",
+    "remote/Il capocantiere.md",
+    "Q33R.md",
+    "universo.md",
+    "Entità malvagie -EE.md",
+    "Idle_-_Animation-1.png(wid)).md",
+    "remote/images",
+    "remote/images/Idle_-_Animation-1.png",
+    "remote/test.md",
+    "remote"
+  ]
+}

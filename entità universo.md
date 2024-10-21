@@ -1,0 +1,1 @@
+Rappresentazione dello stesso universo, creatore di XYZ. 
